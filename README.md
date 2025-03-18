@@ -1,2 +1,2 @@
 # TMenu-Crap
-Crap for TMenu
+Stuff that the update checker for TMenu can refer to.
